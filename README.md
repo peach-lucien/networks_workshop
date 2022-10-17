@@ -7,7 +7,7 @@
 We are surrounded by systems that are hopelessly complicated - complex systems - and behind each complex system there is an intricate network that encodes the interactions between the individual components.
 Knowing the systems components, such as the neurons in the brain, is insufficient to derive the collective behaviour of millions interacting. Given the important role complex systems play in our daily life, in science and in economy, their understanding, mathematical description, prediction, and eventually control is one of the major intellectual and scientific challenges of the 21st century. We will never understand complex systems unless we develop a deep understanding of the networks behind them.
 
-![title](images/network.gif)
+![title](intro_and_celegans/images/network.gif)
 
 
 Network science is a relatively new discipline when compared to traditional subjects: Its exact beginning is up for debate, but has only really emerged as a separate discipline during the 21st century. The development of tools to interrogate networks, and the areas that have benefitted from network analyses, have grown exponentially over recent years. 
