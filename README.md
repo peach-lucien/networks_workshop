@@ -44,6 +44,8 @@ We don't necessarily want you to learn every detail about the examples we give, 
 
 ### Getting started
 
+You will need to have a running version of Python and Jupyter notebooks. This is easily installed using Anaconda https://docs.anaconda.com/anaconda/install/index.html.
+
 Before you run these notebooks, there are a few dependencies (packages that you need to also have installed). These should all be defined in the requirements.txt file. 
 
 Just access the main folder for this code via the terminal and run:
